@@ -55,7 +55,7 @@ function Data() {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Frontend Designer</h3>
+      <h3 className="home__subtitle">Frontend Developer</h3>
       <p className="home__description">
         I'm creative web designer based in Accra, and I'm very passionate and
         dedicated to my work.

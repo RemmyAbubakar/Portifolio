@@ -13,18 +13,6 @@ function Footer() {
               About
             </a>
           </li>
-
-          <li>
-            <a href="#portifolio" className="footer__link">
-              Projects
-            </a>
-          </li>
-
-          <li>
-            <a href="#testimonials" className="footer__link">
-              Testimonials
-            </a>
-          </li>
         </ul>
 
         <div className="footer__social">
@@ -37,14 +25,14 @@ function Footer() {
             <i class="bx bxl-facebook"></i>
           </a>
           <a
-            href="https://www.instagram.com/"
+            href="https://www.instagram.com/lifeofremmy_/"
             className="footer__social-link"
             target="_blank"
           >
             <i class="bx bxl-instagram"></i>
           </a>
           <a
-            href="https://twitter.com/"
+            href="https://twitter.com/Remm_yy"
             className="footer__social-link"
             target="_blank"
           >

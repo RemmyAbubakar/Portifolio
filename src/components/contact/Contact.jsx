@@ -91,7 +91,7 @@ function Contact() {
                 type="text"
                 name="name"
                 className="contact__form-input"
-                placeholder="Insert your name"
+                placeholder="Name"
               />
             </div>
 
@@ -102,7 +102,7 @@ function Contact() {
                 type="email"
                 name="email"
                 className="contact__form-input"
-                placeholder="Insert your email"
+                placeholder="Email"
               />
             </div>
 
@@ -114,7 +114,7 @@ function Contact() {
                 cols="30"
                 rows="10"
                 className="contact__form-input"
-                placeholder="Write your project"
+                placeholder="Your project"
               ></textarea>
             </div>
 
