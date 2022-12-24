@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/rem.jpeg";
-import CV from "../../assets/REMMYABUBAKAR CV.pdf";
+import CV from "../../assets/RemmyAbubakarCV.pdf";
 import Info from "./Info";
 
 function About() {
@@ -19,7 +19,7 @@ function About() {
           <p className="about__description">
             Frontend developer, I create web pages with UI / UX user interface,
             I have few months of experience and many clients are happy with the
-            projects carried out.
+            projects carried out. 
           </p>
 
           <a download="" href={CV} className="button button--flex">
