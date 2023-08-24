@@ -1,6 +1,6 @@
-.scrollup{
+.scrollup {
     position: fixed;
-    right: 2.5rem;
+    right: 2.5rem; /* Set the same right position for all media queries */
     bottom: 20%;
     background-color: var(--title-color);
     opacity: 0.8;
@@ -10,7 +10,7 @@
     transition: 4s;
 }
 
-.scrollup__icon{
+.scrollup__icon {
     font-size: 1.5rem;
     color: var(--container-color);
 }
@@ -20,21 +20,19 @@
 }
 
 /* Show Scroll */
-
 .show-scroll {
     bottom: 3rem;
 }
 
-@media screen and (max-width: 992px){
-    .scrollup{
-        right: 1.5rem;
+@media screen and (max-width: 992px) {
+    .scrollup {
+        right: 2.5rem; /* Keep the same right position value */
         padding: 0.25rem 0.4rem;
     }
 
-    .scrollup__icon{
+    .scrollup__icon {
         font-size: 1.25rem;
     }
-    
 }
 
 @media screen and (max-width: 768px) {
@@ -43,8 +41,8 @@
     }
 }
 
-@media screen and (max-width: 350px){
-    .scrollup{
-        right: 1rem;
+@media screen and (max-width: 350px) {
+    .scrollup {
+        right: 2.5rem; /* Keep the same right position value */
     }
 }

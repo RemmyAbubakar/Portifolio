@@ -1,5 +1,7 @@
 .qualification__container {
-    max-width: 768px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .qualification__tabs {
@@ -45,6 +47,7 @@
 }
 
 .qualification__data {
+    max-width: 100%;
     display: grid;
     grid-template-columns: 1fr max-content 1fr;
     column-gap: 1.5rem;
@@ -92,8 +95,8 @@
 
 @media screen and (max-width: 768px) {
     .qualification__container {
-        margin-left: var(--mb-1-5);
-        margin-right: var(--mb-1-5);
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 

@@ -5,6 +5,7 @@
 
 .footer__container{
     padding: 2rem 0 6rem;
+    border-style: 2px;
 }
 
 .footer__title,

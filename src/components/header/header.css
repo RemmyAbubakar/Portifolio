@@ -64,11 +64,11 @@
       position: fixed;
       bottom: -100%;
       left: 0;
-    width: 100%;
+      width: 100%;
       background-color: var(--body-color);
       padding: 2rem 1.5rem 4rem;
       box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
-    border-radius: 1.5rem 1.5rem 0 0;
+      border-radius: 1.5rem 1.5rem 0 0;
       transition: .3s;
     }
 
@@ -101,7 +101,7 @@
     }
 
     .nav__toggle {
-        font-size: 1.1rem;
+        font-size: 1.2rem;
         cursor: pointer;
     }
 
@@ -115,6 +115,7 @@
 @media screen and (max-width: 350px) {
    .nav__menu {
     padding: 2rem 0.25rem 4rem;
+   
    }
 
    .nav_list {

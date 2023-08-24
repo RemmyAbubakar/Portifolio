@@ -14,7 +14,7 @@ import Work from './components/work/Work';
 
 function App() {
   return (
-    <div>
+    <div className='mx-7'>
       <Header />
 
       <main className="main">

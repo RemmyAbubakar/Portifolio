@@ -9,9 +9,9 @@ function Qualification() {
   };
 
   return (
-    <section className="qualification section">
+    <section className="qualification section ">
       <h2 className="section__title">Qualification</h2>
-      <span className="section__subtitle">My personel journey</span>
+      <span className="section__subtitle">My personnel journey</span>
 
       <div className="qualification__container container">
         <div className="qualification__tabs">
@@ -49,7 +49,7 @@ function Qualification() {
             }
           >
             <div className="qualification__data">
-              <div>
+              <div className="">
                 <h3 className="qualification__title">Software Eng.</h3>
                 <span className="qualification__subtitle">
                   NIIT - (OpenLabs Ghana)
@@ -73,7 +73,7 @@ function Qualification() {
                 <span className="qualification__line"></span>
               </div>
 
-              <div>
+              <div className="">
                 <h3 className="qualification__title">Digital Marketing</h3>
                 <span className="qualification__subtitle">
                   Whizzy Academy - (Pre-Mest)
@@ -86,8 +86,8 @@ function Qualification() {
             </div>
 
             <div className="qualification__data">
-              <div>
-                <h3 className="qualification__title">Sofware Development</h3>
+              <div className="">
+                <h3 className="qualification__title">Software Development</h3>
                 <span className="qualification__subtitle">
                   Code-Coast - (Pre-Mest)
                 </span>
