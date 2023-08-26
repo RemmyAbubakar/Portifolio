@@ -44,7 +44,7 @@ function Services() {
 
                 <h3 className="services__modal-title">Web Designer</h3>
                 <p className="services__modal-description">
-                  Service with few months of experience. Providing quality work
+                  Service with 1 year + of experience. Providing quality work
                   to clients and companies.
                 </p>
 
@@ -102,7 +102,7 @@ function Services() {
 
                 <h3 className="services__modal-title">Ui/Ux Designer</h3>
                 <p className="services__modal-description">
-                  Service with few months of experience. Providing quality work
+                  Service with 1 year + of experience. Providing quality work
                   to clients and companies.
                 </p>
 
