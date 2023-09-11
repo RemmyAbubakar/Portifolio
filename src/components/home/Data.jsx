@@ -57,8 +57,11 @@ function Data() {
       </h1>
       <h3 className="home__subtitle">Frontend Web Developer</h3>
       <p className="home__description">
-        I'm a creative web designer based in Accra, and I'm very passionate and
-        dedicated to my work.
+        I am a dedicated and passionate Front-End Web Developer based in Accra, committed
+        to delivering creative and innovative solutions to meet the unique needs
+        of each client. With a strong background in web design and a relentless
+        pursuit of excellence, I bring professionalism and creativity to every
+        project I undertake.
       </p>
 
       <a href="#contact" className="button button--flex">

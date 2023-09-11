@@ -17,9 +17,11 @@ function About() {
           <Info />
 
           <p className="about__description">
-            Frontend developer, I create web pages with UI / UX user interface,
-            I have 1 year plus of experience and many clients are happy with the
-            projects carried out. 
+            An experienced Frontend Developer specializing in the creation of
+            web pages with a strong focus on UI/UX user interfaces. With over
+            one year of hands-on expertise, my track record boasts numerous
+            satisfied clients who have consistently praised the successful
+            execution of my projects.
           </p>
 
           <a download="" href={CV} className="button button--flex">
