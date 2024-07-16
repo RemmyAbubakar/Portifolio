@@ -121,7 +121,7 @@ function Qualification() {
                 </span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i> 2023(January) -
-                  Present
+                  2024(July)
                 </div>
               </div>
 

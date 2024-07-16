@@ -1,16 +1,38 @@
-import rem1 from "../../assets/rem1.jpeg";
-import rem2 from "../../assets/rem2.jpeg";
-import rem3 from "../../assets/rem3.jpeg";
 import boss1 from "../../assets/boss1.png";
-import boss2 from "../../assets/boss2.png";
-import boss3 from "../../assets/boss3.png";
-import boss4 from "../../assets/boss4.png";
 import screen1 from "../../assets/screen1.png";
 import screen2 from "../../assets/screen2.png";
 import lemi1 from "../../assets/lemi1.png";
 import lemi2 from "../../assets/lemi2.png";
+import marspage from "../../assets/marspage.png";
+import marspage2 from "../../assets/marspage2.png";
 
 export const projectsData = [
+  {
+    id: 7,
+    image: marspage,
+    name: "Ecommerce Web App (In Progress)",
+    title: "Web design",
+    category: "Web",
+    link: "https://mars-online.vercel.app",
+  },
+  {
+    id: 7,
+    image: marspage2,
+    name: "Ecommerce Web App (In Progress)",
+    title: "Web design",
+    category: "Web",
+    link: "https://mars-online.vercel.app",
+  },
+
+  {
+    id: 8,
+    image: boss1,
+    name: "Ecommerce Web App (In Progress)",
+    title: "Web design",
+    category: "Web",
+    link: "https://mars-online.vercel.app",
+  },
+
   {
     id: 1,
     image: lemi1,
@@ -44,40 +66,23 @@ export const projectsData = [
     link: "https://tprquadbike.vercel.app/",
   },
 
-  {
-    id: 5,
-    image: rem1,
-    name: "RENT APARTMENT WEB APP",
-    title: "Web design",
-    category: "Running App",
-    link: "https://rent-avenue.vercel.app/",
-  },
-  {
-    id: 6,
-    image: rem2,
-    name: "RENT APARTMENT WEB APP",
-    title: "web design",
-    category: "Running App",
-    link: "https://rent-avenue.vercel.app/",
-  },
+  // {
+  //   id: 5,
+  //   image: rem1,
+  //   name: "RENT APARTMENT WEB APP",
+  //   title: "Web design",
+  //   category: "Running App",
+  //   link: "https://rent-avenue.vercel.app/",
+  // },
 
-  {
-    id: 7,
-    image: boss1,
-    name: "Ecommerce Web App (In Progress)",
-    title: "Web design",
-    category: "Web",
-    link: "https://github.com/RemmyAbubakar/Mars-Online---Ecommerce-",
-  },
-
-  {
-    id: 8,
-    image: boss4,
-    name: "Ecommerce Web App (In Progress)",
-    title: "Web design",
-    category: "Web",
-    link: "https://github.com/RemmyAbubakar/Mars-Online---Ecommerce-",
-  },
+  // {
+  //   id: 6,
+  //   image: rem2,
+  //   name: "RENT APARTMENT WEB APP",
+  //   title: "web design",
+  //   category: "Running App",
+  //   link: "https://rent-avenue.vercel.app/",
+  // },
 ];
 
 export const projectsNav = [

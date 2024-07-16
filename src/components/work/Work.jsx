@@ -9,7 +9,7 @@ function Work() {
       <span className="section__subtitle">Most recent works</span>
       <span className="section__subtitle">
         Deployed App
-        <a href="https://rent-avenue.vercel.app" className="ml-2">(Click Here)</a>
+        <a href="https://mars-online.vercel.app" className="ml-2">(Click Here)</a>
       </span>
 
       <Works />
